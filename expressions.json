@@ -1,0 +1,174 @@
+{
+  "A": {
+    "THUMB": {"mag": 1.0},
+    "INDEX": {"mag": 0.8},
+    "MIDDLE": {"mag": 0.8},
+    "RING": {"mag": 0.75},
+    "PINKY": {"mag": 0.7},
+    "orientation": [-0.1, 0, -1]
+  },
+  "B": {
+    "THUMB": {"mag": 0.2},
+    "INDEX": {"mag": 1.8},
+    "MIDDLE": {"mag": 1.8},
+    "RING": {"mag": 1.8},
+    "PINKY": {"mag": 1.8},
+    "orientation": [-0.1, 0, -1]
+  },
+  "C": {
+    "THUMB": {"mag": 1.0},
+    "INDEX": {"mag": 1.35},
+    "MIDDLE": {"mag": 1.35},
+    "RING": {"mag": 1.35},
+    "PINKY": {"mag": 1.35},
+    "orientation": [-0.8, 0.3, -0.3]
+  },
+  "D": {
+    "THUMB": {"mag": 0.4},
+    "INDEX": {"mag": 1.8},
+    "MIDDLE": {"mag": 0.8},
+    "RING": {"mag": 0.7},
+    "PINKY": {"mag": 0.6},
+    "orientation": [-0.9, 0.13, -0.35]
+  },
+  "E": {
+    "THUMB": {"mag": 0.3},
+    "INDEX": {"mag": 1.0},
+    "MIDDLE": {"mag": 1.0},
+    "RING": {"mag": 1.0},
+    "PINKY": {"mag": 1.0},
+    "orientation": [-0.1, 0, -1]
+  },
+  "F": {
+    "THUMB": {"mag": 0.6},
+    "INDEX": {"mag": 1.2},
+    "MIDDLE": {"mag": 2.0},
+    "RING": {"mag": 2.0},
+    "PINKY": {"mag": 2.0},
+    "orientation": [-0.1, 0, -1]
+  },
+  "G": {
+    "THUMB": {"mag": 1.7},
+    "INDEX": {"mag": 1.4},
+    "MIDDLE": {"mag": 0.6},
+    "RING": {"mag": 0.4},
+    "PINKY": {"mag": 0.4},
+    "orientation": [-0.2, 0, 1]
+  },
+  "H": {
+    "THUMB": {"mag": 1.7},
+    "INDEX": {"mag": 1.4},
+    "MIDDLE": {"mag": 1.4},
+    "RING": {"mag": 0.4},
+    "PINKY": {"mag": 0.4},
+    "orientation": [-0.2, 0, 1]
+  },
+  "I": {
+    "lookFor":  "J",
+    "THUMB": {"mag": 0.3},
+    "INDEX": {"mag": 1.0},
+    "MIDDLE": {"mag": 1.0},
+    "RING": {"mag": 1.0},
+    "PINKY": {"mag": 2.0},
+    "orientation": [-0.1, 0, -1]
+  },
+  "K": {
+    "THUMB": {"mag": 0.4},
+    "INDEX": {"mag": 1.8},
+    "MIDDLE": {"mag": 1.7},
+    "RING": {"mag": 0.6},
+    "PINKY": {"mag": 0.6},
+    "orientation": [-1, 0, 0]
+  },
+  
+  "L": {
+    
+    "THUMB": {"mag": 1.0},
+    "INDEX": {"mag": 2.0},
+    "MIDDLE": {"mag": 0.5},
+    "RING": {"mag": 0.5},
+    "PINKY": {"mag": 0.5},
+    "orientation": [-0.1, 0, -1]
+  },
+  "M": {
+    "THUMB": {"mag": 1.0},
+    "INDEX": {"mag": 1.0},
+    "MIDDLE": {"mag": 1.0},
+    "RING": {"mag": 1.0},
+    "PINKY": {"mag": 1.0},
+    "orientation": [-0.6, 0.38, -0.6]
+  },
+  "N": {
+    "lookFor": "Ñ",
+    "THUMB": {"mag": 1.0},
+    "INDEX": {"mag": 2.0},
+    "MIDDLE": {"mag": 2.0},
+    "RING": {"mag": 1.2},
+    "PINKY": {"mag": 1.0},
+    "orientation": [0.1, 1.0, 0.3]
+  },
+  "O": {
+    "THUMB": {"mag": 0.5},
+    "INDEX": {"mag": 1.0},
+    "MIDDLE": {"mag": 1.0},
+    "RING": {"mag": 1.0},
+    "PINKY": {"mag": 1.0},
+    "orientation": [-0.8, 0.3, -0.3]
+  },
+  "P": {
+    "THUMB": {"mag": 0.2},
+    "INDEX": {"mag": 2.0},
+    "MIDDLE": {"mag": 2.0},
+    "RING": {"mag": 0.5},
+    "PINKY": {"mag": 0.5},
+    "orientation": [-0.1, 0, -1]
+  },
+  "Q": {
+    "THUMB": {"mag": 0.8},
+    "INDEX": {"mag": 1.5},
+    "MIDDLE": {"mag": 1.0},
+    "RING": {"mag": 0.7},
+    "PINKY": {"mag": 0.7},
+    "orientation": [-0.5, 0.8, 0.3]
+  },
+  "R": {
+    "THUMB": {"mag": 0.2},
+    "INDEX": {"mag": 1.8},
+    "MIDDLE": {"mag": 1.8},
+    "RING": {"mag": 0.5},
+    "PINKY": {"mag": 0.5},
+    "orientation": [-0.1, 0, -1]
+  },
+  "S": {
+    "THUMB": {"mag": 0.25},
+    "INDEX": {"mag": 0.8},
+    "MIDDLE": {"mag": 0.8},
+    "RING": {"mag": 0.75},
+    "PINKY": {"mag": 0.7},
+    "orientation": [-0.1, 0, -1]
+  },
+  "T": {
+    "THUMB": {"mag": 0.7},
+    "INDEX": {"mag": 0.8},
+    "MIDDLE": {"mag": 0.8},
+    "RING": {"mag": 0.75},
+    "PINKY": {"mag": 0.7},
+    "orientation": [-0.1, 0, -1]
+  },
+  "W": {
+    "THUMB": {"mag": 0.2},
+    "INDEX": {"mag": 2.0},
+    "MIDDLE": {"mag": 2.0},
+    "RING": {"mag": 2.0},
+    "PINKY": {"mag": 0.5},
+    "orientation": [-0.1, 0, -1]
+  },
+   "Y": {
+    "THUMB": {"mag": 1.7},
+    "INDEX": {"mag": 0.7},
+    "MIDDLE": {"mag": 0.5},
+    "RING": {"mag": 0.5},
+    "PINKY": {"mag": 1.0},
+    "orientation": [-0.15, 0, 1]
+  }
+}
